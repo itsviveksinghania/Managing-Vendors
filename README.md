@@ -1,7 +1,7 @@
-#Live project Link: 
+# Live project Link: 
 http://18.222.77.50:10000/swagger-ui/index.html#/
 
-#Project Description:
+# Project Description:
 
 The objective of this project is to create a Spring Boot-based web application that will allow users to perform CRUD (Create, Read, Update, and Delete) operations on an entity called "Vendor." The application will use MySQL as its database and will be deployed on AWS.
 
